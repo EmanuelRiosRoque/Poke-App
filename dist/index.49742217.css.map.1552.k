@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/css/app.css"],"sourcesContent":["body {\r\n    background-color: rgb(216, 216, 216);\r\n}"],"names":[],"version":3,"file":"index.49742217.css.map","sourceRoot":"/__parcel_source_root/"}

@@ -1,0 +1,20 @@
+{
+  "name": "poke-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "np install -g parcel-bundler",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build --public-url . index.html --out-dir build"
+  },
+  "author": "Emanuel Rios Roque",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
